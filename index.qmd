@@ -1,0 +1,30 @@
+---
+title: "What I learned at posit::conf 2024"
+author: "Jeremy McWilliams"
+format: revealjs
+---
+
+## posit::2024 conference
+
+- August 12-14
+- Seattle, WA
+
+## Data Scientists LOVE Quarto
+
+- Why?
+- Many are tasked with creating outputs:
+-- reports (html, pdf)
+-- data dashboards
+- Quarto's purpose is just that: publishing work for stakeholders
+
+## Should you "switch" to Quarto?
+- It depends
+- For writing code in R or Python, it doesn't give you anything more (.Rmd, .R, .ipynb are fine)
+- If you want students to create outputs (websites, reports, data dashboards), then yes
+
+
+## More on Quarto
+- For certain outputs (websites, data dashboards), knowing HTML/CSS is important
+- Emphasis on "making things look nice" for stakeholders => command of HTML/CSS
+- Presenters seemed to learn on their own. Should we include this in curriculum?
+
