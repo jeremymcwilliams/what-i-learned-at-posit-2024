@@ -32,5 +32,5 @@ format: revealjs
 
 ## Other Take-homes
 - EVERYONE uses GitHub
-- Lots of excitement around automating reports for stakeholders
+- Lots of excitement around automating reports for stakeholders, using "quarto parameters"
 - Data Science community is very welcoming, supportive, eager to share ideas
