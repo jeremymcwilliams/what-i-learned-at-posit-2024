@@ -50,8 +50,23 @@ format: revealjs
 - Lots of writing and discussion, some data science
 - Course: https://jhudatascience.org/Baltimore_Community_Course/
 
+## DuckDB
+- package for R, python, and other languages to add db/sql functionality
+- supposedly very fast at querying huge csv files
+- stores data on disc instead of just on memory
+- could be a good/easy gateway for including SQL
+
 
 ## Other Take-homes
 - EVERYONE uses GitHub
 - Lots of excitement around automating reports for stakeholders, using "quarto parameters"
 - Data Science community is very welcoming, supportive, eager to share ideas
+
+
+
+## Things to consider at LC
+- Should we add more end-products in curriculum (i.e. Quarto reports/dashboards)?
+- Can we incorporate GitHub more?
+- Can we connect with local stakeholders to give students more experiences?
+
+
