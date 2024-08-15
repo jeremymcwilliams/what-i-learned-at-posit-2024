@@ -28,3 +28,9 @@ format: revealjs
 - Emphasis on "making things look nice" for stakeholders => command of HTML/CSS
 - Presenters seemed to learn on their own. Should we include this in curriculum?
 
+
+
+## Other Take-homes
+- EVERYONE uses GitHub
+- Lots of excitement around automating reports for stakeholders
+- Data Science community is very welcoming, supportive, eager to share ideas
