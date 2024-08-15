@@ -29,6 +29,27 @@ format: revealjs
 - Presenters seemed to learn on their own. Should we include this in curriculum?
 
 
+## Positron
+- Positron is a Desktop Integrated Development Environment (IDE) in development by the posit team
+- It's based on the open source "Code OSS" (so is VS Code, which is why it looks similar)
+- They did it because of their intention to support *and run* many languages (Python, Julia, etc.)
+- RStudio's architecture doesn't allow for multiple language kernels, hence their decision to make Positron
+
+## Positron vs. RStudio/posit.cloud
+- They're planning to support both programs moving ahead
+- There was no mention of a cloud-based system for Positron -- I'm guessing perhaps, but not anytime soon
+- posit.cloud has worked well for us, so no need to switch
+- with that said, it looks awesome. Great support for multiple languages, DB integration/explorer
+- In industry, it seems like many use Desktop apps (e.g. RStudio, VS Code)
+
+
+## Johns Hopkins Social Good Class
+- Partnered with Baltimore Community Based Organizations
+- 1st half - Students learned initially how to work with CBOs
+- 2nd half - Students worked on specific projects to support CBOs
+- Lots of writing and discussion, some data science
+- Course: https://jhudatascience.org/Baltimore_Community_Course/
+
 
 ## Other Take-homes
 - EVERYONE uses GitHub
