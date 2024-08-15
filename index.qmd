@@ -3,7 +3,7 @@ title: "What I learned at posit::conf 2024"
 author: "Jeremy McWilliams"
 format: 
   revealjs:
-    theme: blood
+    theme: sky
 ---
 
 ## posit::2024 conference
@@ -13,17 +13,19 @@ format:
 
 ## Data Scientists LOVE Quarto
 
-- Why?
+::: {.incremental}
 - Many are tasked with creating outputs:
--- reports (html, pdf)
+-- reports (html, pdf, slides)
 -- data dashboards
 - Quarto's purpose is just that: publishing work for stakeholders
+:::
 
 ## Should you "switch" to Quarto?
+::: {.incremental}
 - It depends
 - For writing code in R or Python, it doesn't give you anything more (.Rmd, .R, .ipynb are fine)
 - If you want students to create outputs (websites, reports, data dashboards), then yes
-
+:::
 
 ## More on Quarto
 ::: {.incremental}
