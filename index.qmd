@@ -1,7 +1,9 @@
 ---
 title: "What I learned at posit::conf 2024"
 author: "Jeremy McWilliams"
-format: revealjs
+format: 
+  revealjs:
+    theme: blood
 ---
 
 ## posit::2024 conference
