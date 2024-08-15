@@ -24,9 +24,11 @@ format: revealjs
 
 
 ## More on Quarto
+::: {.incremental}
 - For certain outputs (websites, data dashboards), knowing HTML/CSS is important
 - Emphasis on "making things look nice" for stakeholders => command of HTML/CSS
 - Presenters seemed to learn on their own. Should we include this in curriculum?
+:::
 
 
 ## Positron
