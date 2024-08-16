@@ -8,8 +8,11 @@ format:
 
 ## posit::2024 conference
 
-- August 12-14
-- Seattle, WA
+- August 12-14, Seattle, WA
+::: {.incremental}
+- Attendees: Mostly people in industry, some educators
+- My lens: from a skills perspective, what are data scientists 
+:::
 
 ## Data Scientists LOVE Quarto
 
@@ -62,17 +65,33 @@ format:
 - stores data on disc instead of just on memory
 - could be a good/easy gateway for including SQL
 
+## DuckDB example
+```{r}
+library(palmerpenguins)
+library(duckdb)
+#SELECT * FROM 'svi_county_2022.csv';
+
+
+```
+
 
 ## Other Take-homes
+::: {.incremental}
 - EVERYONE uses GitHub
+- Many use GitHub Pages
 - Lots of excitement around automating reports for stakeholders, using "quarto parameters"
 - Data Science community is very welcoming, supportive, eager to share ideas
-
+:::
 
 
 ## Things to consider at LC
+::: {.incremental}
 - Should we add more end-products in curriculum (i.e. Quarto reports/dashboards)?
 - Can we incorporate GitHub more?
 - Can we connect with local stakeholders to give students more experiences?
+:::
+![GitHub](images/github.png "Title: An elephant"){fig-alt="github logo" fig-align="left"}
+
+
 
 
