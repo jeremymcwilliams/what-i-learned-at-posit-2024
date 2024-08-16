@@ -11,15 +11,18 @@ format:
 - August 12-14, Seattle, WA
 ::: {.incremental}
 - Attendees: Mostly people in industry, some educators
-- My lens: from a skills perspective, what are data scientists 
+
+- Lens: from a skills perspective, what tools are data scientists excited about
 :::
 
 ## Data Scientists LOVE Quarto
 
 ::: {.incremental}
 - Many are tasked with creating outputs:
--- reports (html, pdf, slides)
--- data dashboards
+<ul>
+<li>reports (html, pdf, slides)</li>
+<li>data dashboards</li>
+</ul>
 - Quarto's purpose is just that: publishing work for stakeholders
 :::
 
@@ -65,14 +68,6 @@ format:
 - stores data on disc instead of just on memory
 - could be a good/easy gateway for including SQL
 
-## DuckDB example
-```{r}
-library(palmerpenguins)
-library(duckdb)
-#SELECT * FROM 'svi_county_2022.csv';
-
-
-```
 
 
 ## Other Take-homes
@@ -90,7 +85,7 @@ library(duckdb)
 - Can we incorporate GitHub more?
 - Can we connect with local stakeholders to give students more experiences?
 :::
-![GitHub](images/github.png "Title: An elephant"){fig-alt="github logo" fig-align="left"}
+![](images/github.png "Title: An elephant"){fig-alt="github logo" fig-align="left"}
 
 
 
